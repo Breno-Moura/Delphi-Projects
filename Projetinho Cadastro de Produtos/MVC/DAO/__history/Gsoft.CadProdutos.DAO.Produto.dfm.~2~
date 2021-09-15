@@ -1,0 +1,13 @@
+object DmProduto: TDmProduto
+  OldCreateOrder = False
+  Height = 305
+  Width = 585
+  object QryProduto: TUniQuery
+    Connection = DmDados.Conexao
+    SQL.Strings = (
+      'SELECT * FROM PRODUTOS')
+    Active = True
+    Left = 56
+    Top = 48
+  end
+end

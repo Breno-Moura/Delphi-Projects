@@ -1,0 +1,47 @@
+unit Gsoft.CadProdutos.View.Main;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,
+  AdvGlowButton;
+
+type
+  TFrmPrincipal = class(TForm)
+    PnlTop: TPanel;
+    PnlBot: TPanel;
+    PnlDireita: TPanel;
+    PnlCostas: TPanel;
+    PnlPrincipal: TPanel;
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Label5: TLabel;
+    Label6: TLabel;
+    EdtCodigo: TEdit;
+    EdtDescricao: TEdit;
+    EdtPrecoVenda: TEdit;
+    EdtICMS: TEdit;
+    CbbUnidade: TComboBox;
+    CheckBox1: TCheckBox;
+    BtnIncluir: TAdvGlowButton;
+    BtnCadastrar: TAdvGlowButton;
+    BtnEditar: TAdvGlowButton;
+    BtnExcluir: TAdvGlowButton;
+    BtnConsultar: TAdvGlowButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmPrincipal: TFrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+end.

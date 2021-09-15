@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/10 09:12:05.000.481,=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 09:22:28.000.226,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\FrmPrincipal.dfm=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/10 09:22:28.000.226,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\FrmPrincipal.pas=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 09:22:41.000.934,=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 09:39:47.000.991,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\DAO.Produtos.dfm=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/10 09:39:47.000.991,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\DAO.Produtos.pas=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 09:51:29.000.793,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\MainProdutos.pas=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\FrmPrincipal.pas</Transaction>
+    <Transaction>2021/05/10 09:51:29.000.793,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\MainProdutos.dfm=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\FrmPrincipal.dfm</Transaction>
+    <Transaction>2021/05/10 09:52:05.000.055,=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 10:02:21.000.026,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\ListaProdutos.pas=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 10:02:21.000.026,C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\ListaProdutos.dfm=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/10 14:17:48.000.889,D:\GSOFT\Utilitarios\DevTreinamento\Breno\RAD\MainProdutos.dfm=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\MainProdutos.dfm</Transaction>
+    <Transaction>2021/05/10 14:17:48.000.889,D:\GSOFT\Utilitarios\DevTreinamento\Breno\RAD\MainProdutos.pas=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\MainProdutos.pas</Transaction>
+    <Transaction>2021/05/10 14:17:50.000.642,D:\GSOFT\Utilitarios\DevTreinamento\Breno\RAD\ListaProdutos.pas=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\ListaProdutos.pas</Transaction>
+    <Transaction>2021/05/10 14:17:50.000.642,D:\GSOFT\Utilitarios\DevTreinamento\Breno\RAD\ListaProdutos.dfm=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\ListaProdutos.dfm</Transaction>
+    <Transaction>2021/05/10 14:17:52.000.239,D:\GSOFT\Utilitarios\DevTreinamento\Breno\RAD\DAO.Produtos.pas=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\DAO.Produtos.pas</Transaction>
+    <Transaction>2021/05/10 14:17:52.000.239,D:\GSOFT\Utilitarios\DevTreinamento\Breno\RAD\DAO.Produtos.dfm=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\DAO.Produtos.dfm</Transaction>
+    <Transaction>2021/05/10 14:18:27.000.757,D:\GSOFT\Utilitarios\DevTreinamento\Breno\RAD\CadastroProdutos.dproj=C:\Users\DEV_01\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

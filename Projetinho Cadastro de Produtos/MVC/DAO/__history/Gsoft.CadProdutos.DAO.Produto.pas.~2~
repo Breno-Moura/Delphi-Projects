@@ -1,0 +1,26 @@
+unit Gsoft.CadProdutos.DAO.Produto;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, Data.DB, MemDS, DBAccess, Uni;
+
+type
+  TDmProduto = class(TDataModule)
+    UniQuery1: TUniQuery;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DmProduto: TDmProduto;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+end.

@@ -1,0 +1,32 @@
+unit Gsoft.CadProdutos.Produto.View.Consulta;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Gsoft.CadProdutos.DAO.Conexao,
+  Gsoft.CadProdutos.DAO.Produto, Data.DB, AdvGlowButton, Vcl.StdCtrls,
+  Vcl.Grids, Vcl.DBGrids, Vcl.ExtCtrls;
+
+type
+  TFrmConsultaProdutos = class(TForm)
+    PnlGrid: TPanel;
+    PnlBot: TPanel;
+    DBGrid1: TDBGrid;
+    DsProduto: TDataSource;
+    EdtPesquisa: TEdit;
+    BtnSelecionar: TAdvGlowButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmConsultaProdutos: TFrmConsultaProdutos;
+
+implementation
+
+{$R *.dfm}
+
+end.

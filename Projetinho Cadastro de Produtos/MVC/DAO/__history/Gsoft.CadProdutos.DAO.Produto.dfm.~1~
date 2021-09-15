@@ -1,0 +1,9 @@
+object DmProduto: TDmProduto
+  OldCreateOrder = False
+  Height = 473
+  Width = 666
+  object UniQuery1: TUniQuery
+    Left = 192
+    Top = 120
+  end
+end

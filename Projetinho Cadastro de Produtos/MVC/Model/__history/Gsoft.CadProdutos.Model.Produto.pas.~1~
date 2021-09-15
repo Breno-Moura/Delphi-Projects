@@ -1,0 +1,27 @@
+unit Gsoft.CadProdutos.Model.Produto;
+
+interface
+
+  type TUnidade = (g = 0, kg = 1, ton = 2);
+
+  type TProduto = class
+    private
+      FCodigo: Integer;
+      FDescricao: String;
+      FPrecoVenda: Double;
+      FUnidade: String;
+      FIcms: Integer;
+      FAtivo: Boolean;
+
+    public
+      property Codigo: Integer read FCodigo write FCodigo;
+      property Descricao: String read FDescricao write FDescricao;
+      property PrecoVenda: Double read FPrecoVenda write FPrecoVenda;
+      property Unidade: String read FUnidade write FUnidade;
+      property Icms: Integer read FIcms write FIcms;
+      property Ativo: Boolean read FAtivo write FAtivo;
+  end;
+
+implementation
+
+end.
